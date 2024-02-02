@@ -17,7 +17,7 @@ def main():
         # Ask the user if they want to roll again
         play_again = input("Do you want to roll again? (yes/no): ").lower()
 
-        if play_again != 'yes':
+        if play_again != 'yes' or play_again != 'yeah' or play_again != 'yeahhhhh':
             print("Thanks for playing! Goodbye.")
             break
 
