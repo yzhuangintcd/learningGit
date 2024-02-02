@@ -18,7 +18,7 @@ def main():
         play_again = input("Do you want to roll again? (yes/no): ").lower()
 
         if play_again != 'yes' or play_again != 'yeah' or play_again != 'yeahhhhh':
-            print("Thanks for playing! Goodbye.")
+            print("Thanks for playing! Bye.")
             break
 
 if __name__ == "__main__":
