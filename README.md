@@ -1,2 +1,2 @@
 # learningGit
-Git tutorial linkedIn 
+Git Tutorial From LinkedIn Learning
